@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\labcodes_answer",
+    "\\labcodes_answer\\lab1_result",
+    "\\labcodes_answer\\lab1_result\\boot",
+    "\\labcodes_answer\\lab1_result\\kern",
+    "\\labcodes_answer\\lab1_result\\kern\\debug",
+    "\\labcodes_answer\\lab1_result\\kern\\init",
+    "\\labcodes_answer\\lab1_result\\kern\\mm",
+    "\\labcodes_answer\\lab1_result\\kern\\trap",
+    "\\labcodes_answer\\lab2_result\\tools",
+    "\\labcodes_answer\\lab3_result\\kern\\fs"
+  ],
+  "SelectedNode": "\\labcodes_answer\\lab1_result\\kern\\init\\init.c",
+  "PreviewInSolutionExplorer": false
+}
