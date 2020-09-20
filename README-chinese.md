@@ -127,7 +127,7 @@ Using gcc49
 * `brew install qemu`
 
 ### 五、手动在物理PC中安装环境
-
+https://github.com/chyyuu/os_kernel_lab.git
 
 -------------------------------------
 特点：性能最好，但安装有一定难度，需要对Linux比较熟悉
